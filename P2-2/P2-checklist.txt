@@ -1,0 +1,56 @@
+		Snake Game FEATURE CHECKLIST
+
+
+Student Name: _____________________James Root_______________________
+
+BASIC GAME FUNCTIONALITY
+
+__X_  Accelerometer moves the Snake 
+
+__X_  Game over screen when Snake reaches its maximum length or hits something that is not walkable 
+
+__X_  The Map must be bigger than the screen (at least 50*50 tiles) 
+
+__X_  The Snake grows when it eats a goodie 
+
+__X_  At least 2 buff and 2 debuff Map items 
+
+__X_  Status bar shows Snakehead coordinates 
+
+__X_  Art includes at least one sprite 
+
+__X_  Invincibility button 
+
+
+
+EXTRA FEATURES (choose up to 10):
+
+_ X_  Pause game button enable 
+
+__X_  An object that could lower speed for the Snake 
+
+____  Magnet that allows the Snake to attract other objects
+
+__X_  Objects that give negative effects like speed up or extra length without score 
+ 
+__X_  Difficulty modes 
+
+__X_  Game start page 
+
+__X_  Random map initialization
+
+____  Sound effects
+
+____  Pathway to another map
+
+____  Moving objects
+
+____  Animation
+
+_ X_  In-game menu 
+
+____  Multiple lives and the possibility to lose and start over
+
+____  Save the game
+
+____  Other: (please describe)
